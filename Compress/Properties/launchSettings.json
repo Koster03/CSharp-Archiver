@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Compress": {
+      "commandName": "Project",
+      "commandLineArgs": "p TestFile2.fb2"
+    }
+  }
+}
